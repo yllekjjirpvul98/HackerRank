@@ -1,6 +1,10 @@
 # HackerRank
 Challenge | Difficulty | Score
 --- | --- | ---
+*Viral Advertising* | `Easy` | **15.0**
+*Counting Valleys* | `Easy` | **15.0**
+*Utopian Tree* | `Easy` | **20.0**
+*Angry Professor* | `Easy` | **20.0**
 *Electronics Shop* | `Easy` | **15.0**
 *Migratory Birds* | `Easy` | **10.0**
 *Designer PDF Viewer* | `Easy` | **20.0**
