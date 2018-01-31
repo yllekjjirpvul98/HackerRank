@@ -1,6 +1,11 @@
 # HackerRank
 Challenge | Difficulty | Score
 --- | --- | ---
+*Drawing Book* | `Easy` | **10.0**
+*Find Digits* | `Easy` | **25.0**
+*Beautiful Days at the Movies* | `Easy` | **15.0**
+*Jumping On the Clouds* | `Easy` | **20.0**
+*Sequence Equation* | `Easy` | **20.0**
 *Viral Advertising* | `Easy` | **15.0**
 *Counting Valleys* | `Easy` | **15.0**
 *Utopian Tree* | `Easy` | **20.0**
