@@ -1,6 +1,10 @@
 # HackerRank
 Challenge | Difficulty | Score
 --- | --- | ---
+*Equalize the Array* | `Easy` | **20.0**
+*Repeated String* | `Easy` | **20.0**
+*Cut the sticks* | `Easy` | **25.0**
+*Jumping on the Clouds: Revisited* | `Easy` | **15.0**
 *Drawing Book* | `Easy` | **10.0**
 *Find Digits* | `Easy` | **25.0**
 *Beautiful Days at the Movies* | `Easy` | **15.0**
